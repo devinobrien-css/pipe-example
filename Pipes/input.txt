@@ -1,0 +1,8 @@
+Using pipes as interprocess communication between 
+the execution of several files, these programs 
+obtain information about a .txt file located in 
+the local directory.
+
+This is a basic demonstration of pipeline 
+communication between files. Pipelining is a 
+popular procedure in process scheduling. 

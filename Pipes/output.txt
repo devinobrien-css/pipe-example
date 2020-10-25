@@ -1,0 +1,4 @@
+Characters(w/o Spaces): 252
+Characters(w/ Spaces): 293
+Words: 49
+Lines: 8
